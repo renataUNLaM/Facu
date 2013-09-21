@@ -1,11 +1,10 @@
-
-
+/*
 
 
 
 dejo mi version .. previamente tienen que existir 2 archivos, estudiantes y empleados, y tienen que estar ordenados como dice el enunciado,genero un nuevo archivo que se llama empleados actualizado, tambien ordenado, y uso una funcion strcmpi_ "casera" jaj.
 
-
+*/
 
 
 
@@ -94,6 +93,7 @@ void main(void)
     getch();
 
     exit(1);
+    //DEBE CERRAR LOS ARCHIVOS QUE SÍ PUDO ABRIR!!!
 
    }
 
